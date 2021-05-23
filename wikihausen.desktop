@@ -1,0 +1,7 @@
+  [Desktop Entry]
+  Name=Wikihausen
+  Exec=webapp-container --webappUrlPatterns=https:/wikihausen.de/* https:/wikihausen.de
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -1,0 +1,15 @@
+{
+    "name": "wikihausen.de",
+    "description": "Wrapper für Wikihausen",
+    "architecture": "all",
+    "title": "Wikihausen",
+    "hooks": {
+        "-deutsch": {
+            "apparmor": "wikihausen.apparmor",
+            "desktop":  "wikihausen.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
